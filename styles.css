@@ -1,0 +1,11 @@
+#mainSquare {
+  display: flex;
+  flex-wrap: wrap; /* Permite que los elementos se envuelvan en varias líneas */
+  justify-content: flex-start; /* Alinea los elementos al comienzo del contenedor */
+  align-items: flex-start; /* Alinea los elementos al comienzo verticalmente */
+}
+
+.child {
+  /* margin: 0;
+  display: inline; */
+}
